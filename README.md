@@ -5,5 +5,5 @@ To DO:
 * get optical gel
 * polish scintilator
 * assemble parts
-
+* Test the electronics
 
